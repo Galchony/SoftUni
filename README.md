@@ -1,1 +1,1 @@
-# SoftUni
+# SoftUni - JavaSript Path - training
