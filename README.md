@@ -1,2 +1,3 @@
 # SoftUni - JavaScript Path - training
-Fundamentals module
+Programming Basics JS
+Fundamentals module JS
